@@ -4,3 +4,5 @@ This program simulates a simple banking system using C++. It consists of two cla
 In the main function, the program creates an instance of the Bank class and adds several customers to it. It then displays the details of all customers. After that, some transactions like withdrawals and deposits are performed on individual customers. Finally, the updated customer details are displayed again.  
 
 This program showcases concepts of object-oriented programming, encapsulation, and working with collections of objects. It demonstrates how multiple classes can interact to create a basic banking system simulation.  
+
+© Andrew Stade 2024. All rights reserved.
