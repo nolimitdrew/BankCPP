@@ -7,13 +7,9 @@ This program showcases concepts of object-oriented programming, encapsulation, a
 
 **DIRECTORY STRUCTURE:**  
 
-├── .vscode  
-│   ├── c_cpp_properties.json  
-│   ├── launch.json  
-│   ├── settings.json  
 ├── src  
-│   ├── frac.h  
-│   ├── frac.cpp  
+│   ├── bank.h  
+│   ├── bank.cpp  
 │   ├── main.cpp  
 ├── LICENSE  
 └── README.md  
