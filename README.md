@@ -5,4 +5,17 @@ In the main function, the program creates an instance of the Bank class and adds
 
 This program showcases concepts of object-oriented programming, encapsulation, and working with collections of objects. It demonstrates how multiple classes can interact to create a basic banking system simulation.  
 
+**DIRECTORY STRUCTURE:**  
+
+├── .vscode  
+│   ├── c_cpp_properties.json  
+│   ├── launch.json  
+│   ├── settings.json  
+├── src  
+│   ├── frac.h  
+│   ├── frac.cpp  
+│   ├── main.cpp  
+├── LICENSE  
+└── README.md  
+
 © Andrew Stade 2024. All rights reserved.
