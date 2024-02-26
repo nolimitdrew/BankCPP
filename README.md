@@ -6,3 +6,4 @@ In the main function, the program creates an instance of the Bank class and adds
 This program showcases concepts of object-oriented programming, encapsulation, and working with collections of objects. It demonstrates how multiple classes can interact to create a basic banking system simulation.  
 
 © Andrew Stade 2024. All rights reserved.
+
