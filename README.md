@@ -15,7 +15,3 @@ This program showcases concepts of object-oriented programming, encapsulation, a
 └── README.md  
 
 © Andrew Stade 2024. All rights reserved.
-
-
-
-
