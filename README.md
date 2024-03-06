@@ -16,4 +16,3 @@ This program showcases concepts of object-oriented programming, encapsulation, a
 
 © Andrew Stade 2024. All rights reserved.
 
-
